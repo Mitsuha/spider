@@ -1,1 +1,1 @@
-rm -rf cdn-linux-amd64 && wget https://raw.githubusercontent.com/Mitsuha/spider/refs/heads/master/cdn-linux-amd64 && chmod +x cdn-linux-amd64 && ./cdn-linux-amd64 -n 8 -home false
+rm -rf cdn-linux-amd64 && wget https://raw.githubusercontent.com/Mitsuha/spider/refs/heads/master/cdn-linux-amd64 && chmod +x cdn-linux-amd64 && ./cdn-linux-amd64 -n 8
